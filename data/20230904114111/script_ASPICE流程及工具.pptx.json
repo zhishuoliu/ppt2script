@@ -1,0 +1,180 @@
+[
+    {
+        "index": 1,
+        "title": "ASPICE流程及工具",
+        "content": [
+            "仅用六环内部培训使用"
+        ],
+        "script": "大家好！欢迎来到今天的演讲。我将为大家介绍ASPICE流程及工具。这个主题在我们公司内部培训中非常重要。让我们一起来了解一下吧！"
+    },
+    {
+        "index": 2,
+        "title": "目录",
+        "content": [
+            "汽车行业标准要求",
+            "ASPICE",
+            "总体概要\n\n\n",
+            "项目管理\n\n",
+            "数字平台化\n",
+            "系统与软件\n\n",
+            "质量管理\n\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来看一下目录。在目录中，我们会了解到汽车行业标准要求、ASPICE、总体概要、项目管理、数字平台化、系统与软件以及质量管理等内容。这些内容是我们今天演讲的重点，请大家认真听讲。"
+    },
+    {
+        "index": 3,
+        "title": "汽车行业标准要求",
+        "content": [
+            "SOTIF - ISO/PAS 21448标准\n无故障时的安全性（依赖于态势感知的功能-自主系统）",
+            "SOTIF",
+            "ISO-26262汽车功能安全标准\n基于危险分析的安全概念，安全目标，禁止源于系统运行的危险",
+            "Functional Safety",
+            "源自ISO 15504（SPICE）的过程成熟度模型\n开发过程的成熟度，以实现高工作产品质量（通常，系统和软件过程需要2-3级）",
+            "ASPICE"
+        ],
+        "script": "大家好！我们来到了第3页ppt，主题是汽车行业标准要求。在这一页ppt中，我们将学习到SOTIF - ISO/PAS 21448标准，这是一项无故障时的安全性标准，它依赖于态势感知的功能和自主系统。此外，我们还将了解ISO-26262汽车功能安全标准，它基于危险分析来确保系统的安全性，禁止源于系统运行的危险。还有Functional Safety，这是源自ISO 15504（SPICE）的过程成熟度模型，它提高开发过程的成熟度，以实现高工作产品质量。最后，我们还会介绍ASPICE，这是一种用于评估和改进软件开发过程的方法。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 4,
+        "title": "ASPICE-简介",
+        "content": [
+            "ASPICE(Automotive Software Process Imporovement Capability dEtermination)\n-  汽车软件过程改进及能力评定\n-  https://www.automotivespice.com/\n-  AutomotiveSPICE_PAM_31.pdf\n-  Automotive SPICE Guideline.pdf",
+            "AutomotiveSPICE PAM 3.1 "
+        ],
+        "script": "//www.automotivespice.com/上找到更多关于ASPICE的信息。此外，我们还有一些相关的文档，如AutomotiveSPICE_PAM_31.pdf和Automotive SPICE Guideline.pdf。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 5,
+        "title": "ASPICE-Process reference model",
+        "content": [
+            "Primary Life Cycle Processes - 主要生命周期\n-  Acquisition Process Group (ACQ) - 采购\n-  Supply Process Group  (SPL) - 供应\n-  System Engineerng Process Group (SYS) - 系统\n-  Software Engineering Process Group (SWE) - 软件\n\nOrganizational Life Cycle Processess - 组织生命周期\n-  Management Process Group (MAN) - 管理\n-  Reuse Process Group (REU) - 重用\n-  Process Improvement Process Group (PIM)  - 过程改进\n\nSupporting Life Cycle Process - 支持生命周期\n-  Supporting Process Group(SUP) - 支持\n\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第5页ppt，主题是ASPICE-Process reference model。在这一页ppt中，我们将了解到ASPICE的过程参考模型。这个模型包括了三个生命周期过程组：主要生命周期、组织生命周期和支持生命周期。主要生命周期包括采购、供应、系统和软件等过程组。组织生命周期包括管理、重用和过程改进等过程组。支持生命周期包括支持过程组。请大家跟紧我接下来的讲解。\n"
+    },
+    {
+        "index": 6,
+        "title": "ASPICE-Process assessment model",
+        "content": [
+            "Process performance indicators - 过程绩效指标\nBase practices (BP) - 基本实现\nWork products (WP) - 工作产品\nProcess capability indicators - 过程能力指标\nGeneric Practice (GP) - 通用实现\nGeneric Resource (GR) - 通用资源\n\n",
+            "BP: 过程活动是否达成了过程目地？"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第6页ppt，主题是ASPICE-Process assessment model。在这一页ppt中，我们将了解到ASPICE的过程评估模型。这个模型包括了过程绩效指标、基本实现、工作产品、过程能力指标、通用实现和通用资源等内容。过程绩效指标用于评估过程的绩效，基本实现和工作产品则是评估过程是否达成了过程目标的依据。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 7,
+        "title": "ASPICE-等级",
+        "content": [],
+        "script": "大家好！继续我们的演讲。现在我们来到了第7页ppt，主题是ASPICE-等级。在这一页ppt中，我们将了解ASPICE的等级。ASPICE分为6个等级，从Level 0到Level 5，每个等级都代表了不同的成熟度和能力水平。等级越高，代表组织在软件开发过程中的能力越强。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 8,
+        "title": "V Model-V 模型",
+        "content": [
+            "All engineering processes (i.e. system engineering and software engineering) have been organized according to the \"V model\" principle in such a way that each process on the left side is corresponding to exactly one process on the right side. Therefore, the process SWE.3 \"Software Detailed Design and Unit Construction\" is separated from the process SWE.4 \"Software Unit Verification\".  \n\n所有的工程过程（即系统工程和软件工程）都是按照“V模型”原则组织的，左侧的每个过程都与右侧的一个过程完全对应。因此，流程SWE.3软件详细设计和单元构建”与 SWE.4“软件单元验证”过程分开。\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第8页ppt，主题是V Model-V 模型。在这一页ppt中，我们将了解到V模型的原则和组织方式。V模型将系统工程和软件工程的各个过程按照左侧和右侧一一对应的方式进行组织。例如，SWE.3“软件详细设计和单元构建”流程与SWE.4“软件单元验证”过程是分开的。这种组织方式可以提高工程的效率和质量。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 9,
+        "title": "Traceability and consistency",
+        "content": [
+            "\n",
+            "- Traceability and consistency are addressed by two separate base practices in the Automotive SPICE3.1 PAM. Traceability refers to the existence of references or links between work products thereby further supporting coverage, impact analysis, requirements implementation status tracking etc. In contrast, consistency addresses content and semantics. \n\n-Traceability and consistency are addressed by two separate base practices in the Automotive SPICE 3.1 PAM. Traceability refers to the existence of references or links between work products thereby further supporting coverage, impact analysis, requirements implementation status tracking etc. In contrast, consistency addresses content and semantics.\n\n-Furthermore, bidirectional traceability has been explicitly defined between test cases and test results, and change requests and work products affected by these change requests\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第9页ppt，主题是Traceability and consistency。在这一页ppt中，我们将了解到在Automotive SPICE3.1 PAM中，跟踪性和一致性是通过两个独立的基本实现来处理的。跟踪性指的是工作产品之间存在引用或链接，从而进一步支持覆盖范围、影响分析、需求实施状态跟踪等。相反，一致性涉及内容和语义。此外，测试用例和测试结果之间、变更请求和受影响的工作产品之间都明确定义了双向的跟踪性。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 10,
+        "title": "Project Management Tools\u000b ",
+        "content": [
+            "biggantt与MS Project之间的计划导入导出",
+            "Jira project",
+            "Biggantt",
+            "MS Project",
+            "JIRA Risk Issue Type",
+            "Confluence + Jira + Biggantt + MS Project\n\nJira + Biggantt + MS Project\n项目计划可以在MS Projec和JIRA  Biggantt 之间双向导入导出\n项目实施监控项目资源管理\n项目目计划管理\n项目执行和工时管理\n项目风险管理\nConfluence\n项目组成员之间的协同",
+            "Confluence project",
+            "Confluence "
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第10页ppt，主题是Project Management Tools。在这一页ppt中，我们将介绍一些项目管理工具。我们可以使用Biggantt和MS Project之间的计划导入导出功能来管理项目计划。另外，我们还可以使用Jira project和Confluence来实施监控项目资源管理、项目目计划管理、项目执行和工时管理以及项目风险管理。Confluence还可以用于项目组成员之间的协同工作。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 11,
+        "title": "Requirement Development Quality Critira",
+        "content": [
+            "\n",
+            "需求的组织结构要求\n条目化、结构化、模块化、原子化\n需求内容要求\n完整性、一致性、可验证、准确性\n "
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第11页ppt，主题是Requirement Development Quality Criteria。在这一页ppt中，我们将了解需求开发的质量标准。对于需求的组织结构，我们要求它是条目化、结构化、模块化和原子化的。而对于需求内容，我们要求它具备完整性、一致性、可验证性和准确性。这些标准可以帮助我们提高需求的质量和可靠性。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 12,
+        "title": "Requirement Management Process",
+        "content": [
+            "\n",
+            "Develop the requirements\n\nOrganize the review meeting according to the checklist\n\nRevise \n\nApprove\n\nRelease\n\nObsolete\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第12页ppt，主题是Requirement Management Process。在这一页ppt中，我们将了解需求管理的流程。首先，我们需要开发需求。然后，根据检查清单组织需求评审会议。在评审会议上，我们会对需求进行修改和修订。经过评审后，我们会批准和发布需求。最后，当需求不再适用时，我们会将其标记为过时。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 13,
+        "title": "Requirement Management Tracebility Matrix",
+        "content": [
+            "\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第13页ppt，主题是Requirement Management Traceability Matrix。在这一页ppt中，我们将了解需求管理的追踪矩阵。追踪矩阵是一种工具，用于跟踪需求之间的关系和依赖。它可以帮助我们确保每个需求都得到满足，并且可以追踪需求之间的变更和影响。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 14,
+        "title": "Requirement Management KPI Matrix",
+        "content": [
+            "\n"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第14页ppt，主题是Requirement Management KPI Matrix。在这一页ppt中，我们将了解需求管理的关键绩效指标（KPI）矩阵。KPI矩阵是一种工具，用于衡量需求管理的效果和绩效。它可以帮助我们评估需求管理的质量和效率，并为我们提供改进的方向和措施。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 15,
+        "title": "Requirement Management Tools\u000b ",
+        "content": [
+            "文档之间的导入导出",
+            "坚果云 + IBM Doors + Confluence\n\n坚果云\n存放客户/相关方输入文档\n\nIBM Doors \n相关方需求\n系统需求\n软件需求\n追溯表\nKPI表  \n\nConfluence\n指南\n评审表\n评估报告",
+            "Confluence project",
+            "坚果云",
+            "IBM Doors",
+            "评审表，报告，使用指南"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第15页ppt，主题是Requirement Management Tools。在这一页ppt中，我们将介绍一些需求管理工具。我们可以使用坚果云、IBM Doors和Confluence之间的导入导出功能来管理文档。坚果云可以用于存放客户和相关方输入的文档。IBM Doors则可以用于管理相关方需求、系统需求、软件需求、追溯表和KPI表等。而Confluence可以用于编写指南、评审表、评估报告等。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 16,
+        "title": "Design Management Tools\u000b ",
+        "content": [
+            "需求/组件的导入导出",
+            "SVN + Enterprise Architect  + IBM Doors + Confluence + Gitlab\n\nSVN + Enterprise Architect\n存放EA项目\n系统/软件架构\n软件详设\n追溯关系\n\nIBM Doors \nHSI/unit interface\nComponent\n追溯表\nKPI表 \n\nConfluence\n指南\n评审表\n评估报告\n\nGitlab\nsource code",
+            "Confluence project",
+            "EA",
+            "IBM Doors",
+            "评审表，报告，使用指南"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第16页ppt，主题是Design Management Tools。在这一页ppt中，我们将介绍一些设计管理工具。我们可以使用SVN、Enterprise Architect、IBM Doors、Confluence和Gitlab之间的导入导出功能来管理需求和组件。SVN和Enterprise Architect可以用于存放EA项目、系统/软件架构、软件详设和追溯关系等。IBM Doors可以用于管理HSI/unit interface、Component、追溯表和KPI表等。Confluence可以用于编写指南、评审表、评估报告等。而Gitlab则用于管理源代码。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 17,
+        "title": "Verification and Validation Management Tools\u000b ",
+        "content": [
+            "坚果云  + IBM Doors + Confluence + Polyspace\n\n坚果云\n测试log\n\nIBM Doors \nTest case\nTest Result\n追溯关系\n追溯表\nKPI表 \n\nConfluence\n指南\n评审表\n评估报告\n验证与测试报告\n\nPolyspace Metrix\nVerification Result\nwith Justificaiton",
+            "Confluence project",
+            "IBM Doors",
+            "评审表，报告，使用指南",
+            "坚果云",
+            "测试用例/结果的导入/导出"
+        ],
+        "script": "大家好！继续我们的演讲。现在我们来到了第17页ppt，主题是Verification and Validation Management Tools。在这一页ppt中，我们将介绍一些验证和验证管理工具。我们可以使用坚果云、IBM Doors、Confluence和Polyspace之间的导入导出功能来管理测试日志、测试用例和测试结果。坚果云可以用于存放测试日志。IBM Doors可以用于管理测试用例、测试结果、追溯关系、追溯表和KPI表等。Confluence可以用于编写指南、评审表、评估报告和验证与测试报告等。而Polyspace则可以用于管理验证结果和相应的理由。请大家跟紧我接下来的讲解。"
+    },
+    {
+        "index": 18,
+        "title": "流程+工具=数字化平台",
+        "content": [],
+        "script": "好的，继续我们的演讲。现在我们来到了第18页ppt，主题是流程+工具=数字化平台。在这一页ppt中，我们将介绍如何通过将流程和工具结合起来，建立一个数字化的平台。数字化平台可以帮助我们实现流程的自动化和优化，提高工作效率和质量。通过使用适当的工具，我们可以简化流程，减少人工操作，提高数据的准确性和一致性。请大家跟紧我接下来的讲解。"
+    }
+]

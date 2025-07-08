@@ -1,0 +1,13 @@
+tqdm
+Ninja
+requests
+streamlit
+flask
+yacs
+hdf5storage
+psutil
+wand
+python-pptx
+pydub
+opencv-python
+python-pptx
