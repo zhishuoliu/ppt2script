@@ -87,14 +87,6 @@ ppt2script:.
 │      headers.json_bak2
 │      
 ├─data # datetime & slides.ppt(pptx),script.json
-│  ├─20230904100906 
-│  │      script_商务端操作出货培训.pptx.json
-│  │      商务端操作出货培训.pptx
-│  │      
-│  ├─20230904114111
-│  │      ASPICE流程及工具.pptx
-│  │      script_ASPICE流程及工具.pptx.json
-|  │
 │  ├─self_check
 |		  check.pptx # For self-check
 |		  check_script.json
@@ -102,4 +94,5 @@ ppt2script:.
 └─__pycache__
         
 ```
+
 
